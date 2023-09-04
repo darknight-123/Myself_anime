@@ -1,4 +1,4 @@
-# Myself_anime
+# Myself_anime(無廣告)
 
 <h1><a href="https://drive.google.com/file/d/1MGSAjeyfFQyPdVnwxh0u6go58eSwOlo6/view?usp=sharing">APK下載連結</a></h1>
 <p>最近更新清單</p>
