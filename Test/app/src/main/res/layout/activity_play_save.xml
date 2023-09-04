@@ -39,7 +39,7 @@
     <ScrollView
         android:id="@+id/play_scrollvew_save"
 
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="329dp"
         android:layout_marginTop="328dp"
         android:background="@color/white"
