@@ -1,6 +1,6 @@
 # Myself_anime
 
-![image](https://github.com/darknight-123/Myself_anime/assets/81505859/6445c8cb-52f1-437e-aaa6-f0b5061b8f0c)
+<img width=320 height=640>![image](https://github.com/darknight-123/Myself_anime/assets/81505859/6445c8cb-52f1-437e-aaa6-f0b5061b8f0c)</img>
 
 
 ![image](https://github.com/darknight-123/Myself_anime/assets/81505859/fc0bc0d9-5d8e-4e82-aea0-d6fe711c43e9)
